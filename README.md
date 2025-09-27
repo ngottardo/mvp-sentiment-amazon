@@ -2,7 +2,7 @@
 
 **Nome:** Natália Gottardo Costa Oliveira  
 **Data:** 27/08/2025  
-**Dataset:** [Amazon Fine Food Reviews](https://drive.google.com/file/d/1KGRJsHXpbcSuTLeQaHC52vn9yGnaH5yr/view?usp=sharing)
+**Dataset:** [Amazon Fine Food Reviews](https://drive.google.com/file/d/1KGRJsHXpbcSuTLeQaHC52vn9yGnaH5yr/view?usp=sharing) (Drive)
 
 ---
 
